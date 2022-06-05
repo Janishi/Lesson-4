@@ -1,0 +1,142 @@
+.restaurant{
+	font-family: 'Poppins';
+	color: #5863F8;
+	font-size:  14px;
+	margin-bottom: 19px;
+}
+.section-title1-1{
+	font-family: 'Poppins';
+	color: #000000;
+	font-size:  42px;
+	margin-bottom: 14px;
+	margin-bottom: 64px;
+}
+
+.section-title1{
+	font-family: 'Poppins';
+	color: #000000;
+	font-size:  42px;
+}
+.left-box{
+	width:  536px;
+	height: 190px;
+	background: #F8F8F8;
+	display: inline-block;
+	margin-right: 16px;
+}
+.right-box{
+	width:  536px;
+	height: 190px;
+	background: #BE2B2B;
+	display: inline-block;
+}
+.left-box-text-div{
+	display: inline-block;
+	/*vertical-align: middle;*/
+	width: 238px;
+}
+.left-box-title{
+	font-family: 'Poppins';
+	color: #5863F8;
+	font-size: 14px;
+	margin-bottom: 11px;
+
+}
+.left-box-text1{
+	color: #000000;
+	font-family: 'Poppins';
+	font-size: 18px;
+}
+.left-box-sub-text{
+	width: 260px;
+	height: 62px;
+	margin-top: 19px;
+}
+.left-box-sub-text2{
+	color: #B1B1B1;
+	font-family: 'Poppins';
+	font-size: 14px;
+}
+.left-box-image{
+	/*vertical-align: middle;*/
+	margin-right: 16px;
+}
+.right-box-text-div{
+	width: 238px;
+	display: inline-block;
+	/*vertical-align: middle;*/
+}
+.right-box-title{
+	font-family: 'Poppins';
+	color: #5863F8;
+	font-size: 14px;
+}
+.right-image-box{
+	margin-right: 16px;
+	/*vertical-align: middle;*/
+}
+.right-box-text1{
+	font-family: 'Poppins';
+	color: #000000;
+	font-size: 18px;
+}
+.right-box-sub-text{
+	width: 260px;
+	height: 62px;
+	margin-top: 19px;
+}
+.right-box-sub-text2{
+	color: #B1B1B1;
+	font-family: 'Poppins';
+	font-size: 14px;
+}	
+.container1{
+	width: 1088px;
+	margin: 0 auto;
+}
+.container2{
+	width: 1088px;
+	margin: 0 auto;
+}
+.blog{
+	font-family: 'Poppins';
+	color: #5863F8;
+	font-size:  14px;
+	margin-bottom: 19px;
+}
+.section2{
+	margin-top: 102px;
+}
+.section2-left-box{
+	width: 352px;
+	height: 360px;
+	background: #F8F8F8;
+	display: inline-block;
+}
+.left-box2{
+	width: 248px;
+	height: 98px;
+
+}
+.left-box2-texts-div{
+	width: 260px;
+	height: 97px;
+}
+.left-box2-title{
+	font-family: 'Poppins';
+	color: #5863F8;
+	font-size:  14px;
+	
+}
+.left-box2-title2{
+	font-family: 'Poppins';
+	color: #000000;
+	font-size:  18px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+.left-box2-text2{
+	color: #B1B1B1;
+	font-family: 'Poppins';
+	font-size: 14px;
+}
