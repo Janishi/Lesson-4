@@ -34,6 +34,7 @@
 	display: inline-block;
 	vertical-align: middle;
 	width: 260px;
+
 }
 .left-box-title{
 	font-family: 'Poppins';
@@ -119,6 +120,7 @@
 	width: 260px;
 	height: 97px;
 	text-align: center;
+	margin: 0 auto;
 
 }
 .left-box2-title{
